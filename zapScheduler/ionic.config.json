@@ -1,0 +1,7 @@
+{
+  "name": "zapScheduler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
